@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">TourismAppV2.0</string>
+    <string name="attraction_zoo">Louisville Zoo</string>
+    <string name="description_zoo">Come view amazing animals!</string>
+    <string name="zoo_image_description">Louisville Zoo image</string>
+    <string name="fees_zoo">$10.95</string>
+    <string name="hours_zoo">Hours: 10 a.m. - 5 p.m. (stay until 6 p.m.)</string>
+    <string name="attraction_pacsci">Pacific Science Center</string>
+    <string name="description_pacsci">Learn exciting things about our world!</string>
+    <string name="pacsci_image_description">Pacific Science Center image</string>
+    <string name="fees_pacsci">$25.95</string>
+    <string name="hours_pacsci">Hours: 10 a.m. - 5 p.m.</string>
+    <string name="attraction_cedarpoint">Cedar Point</string>
+    <string name="description_cedarpoint">Amazing roller coaster fun!</string>
+    <string name="cedarpoint_image_description">Cedar Point image</string>
+    <string name="fees_cedarpoint">$45.99</string>
+    <string name="hours_cedarpoint">Hours: 10 a.m. - 10 p.m.</string>
+    <string name="description_button">Description</string>
+    <string name="fees_button">Fees</string>
+    <string name="hours_button">Hours</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <string name="back_button">Back</string>
+    <string name="buy_button">Buy</string>
+    <string name="tickets_button">Tickets</string>
+    <string name="total_textview">$0.00</string>
+</resources>
